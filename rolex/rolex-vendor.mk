@@ -2635,6 +2635,4 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.alarm-V1.0-java \
     vendor.qti.hardware.sensorscalibrate-V1.0-java \
     WfdService \
-    WfdCommon \
-    Launcher3QuickStep \
-    FileManager
+    WfdCommon
